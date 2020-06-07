@@ -36,3 +36,31 @@ section li {
   padding-top: 0;
 }
 
+#after {
+  background-color: rgb(193,218,222);
+}
+
+#during {
+  background-color: rgb(220,240,186);
+}
+
+#before {
+  background-color: rgb(240,228,184);
+  padding-top: 5%;
+}
+
+#precautiontitle {
+  padding-top: 5%;
+  margin-bottom: 0;
+  background-color: rgb(240,228,184);
+}
+
+#precautions {
+  padding-top: 0;
+}
+
+.text-left {
+  padding-left: 5%;
+  padding-bottom: 3%;
+}
+
