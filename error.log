@@ -992,3 +992,83 @@ To https://github.com/waterTrackers/waterTrackers.github.io
    9278811..2430550  master -> master
 
 
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/styles.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/font-awesome.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/fontawesome-webfont.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/js/agency.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/js/jquery.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:47 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Sun Jun 07 2020 00:00:53 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/waterTrackers/waterTrackers.github.io
+   2430550..3c40c86  master -> master
+
+
