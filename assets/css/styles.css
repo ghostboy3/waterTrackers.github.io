@@ -33,5 +33,6 @@ iframe {
 section li {
   font-size: 25px;
   padding: 2%;
+  padding-top: 0;
 }
 
