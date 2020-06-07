@@ -75,17 +75,11 @@ section li {
 }
 
 #resource li {
-  /*list-style-type: none;*/
-  text-align: center;
+  list-style-type: none;
+  text-align: justify;
 }
 
-#resource li:before {
-  content: "\e080";
-  font-family: 'Glyphicons Halflings';
-  font-size: 9px;
-  float: left;
-  margin-top: 4px;
-  margin-left: -17px;
-  color: #CCCCCC;
+.fas.fa-mouse-pointer {
+  padding-right: 5%;
 }
 
